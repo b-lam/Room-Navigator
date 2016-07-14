@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab4_202_13</string>
+    <string-array name="maps">
+        <item>E2-3344</item>
+        <item>Lab-room</item>
+        <item>Lab-room-bonus-destination-and-start</item>
+        <item>Lab-room-inclined-9.4deg</item>
+        <item>Lab-room-inclined-16deg</item>
+        <item>Lab-room-peninsula</item>
+        <item>Lab-room-peninsula-9.4deg</item>
+        <item>Lab-room-peninsula-16deg</item>
+        <item>Lab-room-unconnected</item>
+    </string-array>
+</resources>
